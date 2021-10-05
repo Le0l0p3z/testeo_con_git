@@ -1,0 +1,4 @@
+hola estoy sufriendo
+
+git commit
+para crear un primer punto de control de nuestro código
